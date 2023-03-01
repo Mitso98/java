@@ -1,0 +1,15 @@
+
+
+#text{
+    -fx-fill:red;
+    -fx-font-size:30;
+    -fx-font-weight:bold;
+    -fx-box-reflect :below 10px;    
+
+}
+
+#rect{
+  -fx-fill: linear-gradient(black,white,black);
+
+}
+
